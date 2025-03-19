@@ -1,14 +1,11 @@
 {
   "files": {
-    "main.css": "/ethiopia-education-viz/static/css/main.d6050d80.css",
-    "main.js": "/ethiopia-education-viz/static/js/main.07fa8c46.js",
+    "main.js": "/ethiopia-education-viz/static/js/main.aa367731.js",
     "static/media/dashboard-header.png": "/ethiopia-education-viz/static/media/dashboard-header.c4d0f1bb5baad5d6852f.png",
     "index.html": "/ethiopia-education-viz/index.html",
-    "main.d6050d80.css.map": "/ethiopia-education-viz/static/css/main.d6050d80.css.map",
-    "main.07fa8c46.js.map": "/ethiopia-education-viz/static/js/main.07fa8c46.js.map"
+    "main.aa367731.js.map": "/ethiopia-education-viz/static/js/main.aa367731.js.map"
   },
   "entrypoints": [
-    "static/css/main.d6050d80.css",
-    "static/js/main.07fa8c46.js"
+    "static/js/main.aa367731.js"
   ]
 }
